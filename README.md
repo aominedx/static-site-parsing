@@ -17,9 +17,14 @@ A simple web scraper that extracts product data (name, price, description, image
 - BeautifulSoup4 (lxml parser)
 - XlsxWriter
 
+## Result
+<img width="893" height="186" alt="image" src="https://github.com/user-attachments/assets/4095bb59-d338-4df6-a88c-721c8bd79f33" />
+
+
 ##  Installation
 
 ```bash
 git clone https://github.com/your-username/killprice-parser.git
 cd killprice-parser
 pip install -r requirements.txt
+
